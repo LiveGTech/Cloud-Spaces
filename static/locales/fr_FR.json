@@ -1,0 +1,18 @@
+{
+    "localeCode": "fr_FR",
+    "metadata": {
+        "name": "Français (France)",
+        "nameShort": "Français",
+        "textDirection": "ltr"
+    },
+    "source": {
+        "livegCloudSpaces": "LiveG Espaces Cloud",
+        "livegCloudSpaces_wordmark": " Espaces Cloud",
+
+        "404_title": "Nous ne pouvons pas trouver cet Espace",
+        "404_description_prefix": "Désolé, mais ",
+        "404_description_suffix": " est introuvable. Si vous êtes propriétaire d'un Espace censé se trouver ici, veuillez vérifier votre configuration et réessayer.",
+
+        "footer_legal_copyright": "Droits d'auteur © LiveG. Tous les droits sont réservés."
+    }
+}

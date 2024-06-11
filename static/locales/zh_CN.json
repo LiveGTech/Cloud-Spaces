@@ -1,0 +1,18 @@
+{
+    "localeCode": "zh_CN",
+    "metadata": {
+        "name": "简体中文（中国）",
+        "nameShort": "中文",
+        "textDirection": "ltr"
+    },
+    "source": {
+        "livegCloudSpaces": "力格·云空间",
+        "livegCloudSpaces_wordmark": "云空间",
+
+        "404_title": "我们找不到那个空间",
+        "404_description_prefix": "抱歉，无法找到",
+        "404_description_suffix": "。如果您是本应位于此处的空间的所有者，请检查您的配置并重试。",
+
+        "footer_legal_copyright": "版权所有©力格。版权所有。"
+    }
+}

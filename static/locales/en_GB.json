@@ -1,0 +1,18 @@
+{
+    "localeCode": "en_GB",
+    "metadata": {
+        "name": "English (United Kingdom)",
+        "nameShort": "English",
+        "textDirection": "ltr"
+    },
+    "source": {
+        "livegCloudSpaces": "LiveG Cloud Spaces",
+        "livegCloudSpaces_wordmark": " Cloud Spaces",
+
+        "404_title": "We can't find that Space",
+        "404_description_prefix": "Sorry, but ",
+        "404_description_suffix": " cannot be found. If you are an owner of a Space that's meant to be here, then please check your configuration and try again.",
+
+        "footer_legal_copyright": "Copyright © LiveG. All Rights Reserved."
+    }
+}

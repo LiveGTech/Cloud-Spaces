@@ -1,0 +1,15 @@
+{
+    "name": "liveg-cloud-spaces",
+    "version": "0.1.0",
+    "vernum": 0,
+    "description": "A platform to allow websites to be hosted using LiveG Cloud.",
+    "main": "src/main.js",
+    "author": "LiveG Technologies",
+    "repository": "https://github.com/LiveGTech/Cloud-Spaces",
+    "scripts": {
+        "cloudspaces": "node src/main.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
