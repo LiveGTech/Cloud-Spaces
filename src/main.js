@@ -12,7 +12,7 @@ const express = require("express");
 var app = express();
 
 app.get("/", function(request, response, next) {
-    if (request.header("host") == "liveg.net") {
+    if (request.header("X-Proxied-Host") == "liveg.net") {
         response.redirect("https://liveg.tech");
 
         return;
@@ -23,7 +23,7 @@ app.get("/", function(request, response, next) {
 
 app.get("/test", function(request, response) {
     response.send({
-        host: request.header("host")
+        host: request.header("X-Proxied-Host")
     });
 });
 
